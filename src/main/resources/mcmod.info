@@ -1,0 +1,16 @@
+[
+{
+  "modid": "cm",
+  "name": "Concrete Mod",
+  "description": "Adds concrete into the game.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://www.spalding-limitations.tech",
+  "updateUrl": "",
+  "authorList": ["moddedtnt123"],
+  "credits": "moddedtnt123 - Update from 1.6, Calcalvia - Original Textures",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,6 @@
+tile.BlockConcrete.name=Concrete
+tile.BlockCompactConcrete.name=Compact Concrete
+tile.BlockReinforcedConcrete.name=Reinforced Concrete
+tile.BlockUnbreakConcrete.name=Unbreakable Concrete
+tile.BlockPegasusTile.name=Pegasus Drone Controller
+itemGroup.tabConcreteMod=Concrete Mod
